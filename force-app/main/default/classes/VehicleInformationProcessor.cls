@@ -37,7 +37,7 @@ public class VehicleInformationProcessor {
     }
     
     /*
-	* Wrapper to store the vehicle related information that will be retrieved from the remote server
+	* Retrieves vehicle information from endpoint
 	* @return JSON response with vehicle data
 	*/
     public static String getVehicleInformationFromRemote(){

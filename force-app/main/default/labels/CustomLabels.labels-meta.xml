@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Block_delete_service_line_item</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Block delete service line item</shortDescription>
+        <value>You cannot delete an Opportunity Product associated with a Service Product. If you wish to remove it, uncheck the Add Subscription Service in the respective Opportunity Product.</value>
+    </labels>
+    <labels>
+        <fullName>Block_edit_service_line_item</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Block edit service line item</shortDescription>
+        <value>You cannot edit an Opportunity Product associated with a Service Product.</value>
+    </labels>
+    <labels>
+        <fullName>Block_insert_service_line_item</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Block insert service line item</shortDescription>
+        <value>You cannot add Service Products, to add check the Add Subscription Service in the respective Opportunity Product</value>
+    </labels>
+</CustomLabels>
